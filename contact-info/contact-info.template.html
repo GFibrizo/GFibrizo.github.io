@@ -1,0 +1,24 @@
+<div class="contact-container container-block" ng-repeat="user_data in $ctrl.data">
+  <ul class="list-unstyled contact-list">
+      <li class="email">
+        <i class="fa fa-envelope"></i>
+        <a href="mailto: {{user_data.mail}}">{{user_data.mail}}</a>
+      </li>
+      <li class="phone">
+        <i class="fa fa-phone"></i>
+        <a href="tel:{{user_data.phone}}">{{user_data.phone}}</a>
+      </li>
+      <li class="website">
+        <i class="fa fa-globe"></i>
+        <a href="{{user_data.website}}" target="_blank">{{user_data.website}}</a>
+      </li>
+      <li class="linkedin">
+        <i class="fa fa-linkedin"></i>
+        <a href="{{user_data.linkedin}}" target="_blank">{{user_data.linkedin}}</a>
+      </li>
+      <li class="github">
+        <i class="fa fa-github"></i>
+        <a href="{{user_data.github}}" target="_blank">{{user_data.github}}</a>
+      </li>
+  </ul>
+</div><!--//contact-container-->

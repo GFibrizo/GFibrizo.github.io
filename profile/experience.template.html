@@ -1,0 +1,15 @@
+<div class="item" ng-repeat="job in $ctrl.jobs">
+  <div class="meta">
+    <div class="upper-row">
+      <h3 class="job-title">{{job.title}}</h3>
+      <div class="time">{{job.time}}</div>
+    </div><!--//upper-row-->
+    <div class="company">{{job.company}}</div>
+  </div><!--//meta-->
+  <div class="details" style="margin-right:5px; padding-right:2px;">
+    <p style="margin:0px;" ng-repeat="detail in job.details"> 
+      {{detail}}
+    </p><!--//details-->
+  </div>
+  
+</div><!--//item-->

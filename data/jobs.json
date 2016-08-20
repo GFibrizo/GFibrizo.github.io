@@ -1,0 +1,13 @@
+[
+    {
+      "company": "Iquall Networks",
+      "title": "Sofware Developer",
+      "details": [
+      	"Participación en el desarrollo de una plataforma web utilizando los frameworks Sails.js junto a SmartAdmin, tanto en front-end (HTML, Bootstrap and Javascript) como en back-end (Node.js).",
+      	"Construcción de scripts con Bash, PHP y Python y uso del framework Diamond de Python para la creación de servicios que ejecutan tareas periódicas en background.",
+      	"Manejo de bases de datos MySQL y postgreSQL.",
+      	"Colaboración en una aplicación Android."],
+      "time": "Marzo - Octubre (2015)",
+      "technologies":["Android", "Sails.js", "Soap", "Python", "PHP"]
+    }
+]

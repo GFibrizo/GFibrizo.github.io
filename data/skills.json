@@ -1,0 +1,33 @@
+[
+	{
+		"title": "Python",
+		"level": "90%"
+	}, {
+		"title": "Apache Spark",
+		"level": "70%"
+	}, {
+		"title": "Java",
+		"level": "87%"
+	}, {
+		"title": "C++",
+		"level": "85%"
+	}, {
+		"title": "C",
+		"level": "70%"
+	}, {
+		"title": "Android",
+		"level": "70%"
+	}, {
+		"title": "Git",
+		"level": "85%"
+	}, {
+		"title": "Svn",
+		"level": "90%"
+	}, {
+		"title": "Node.js",
+		"level": "70%"
+	}, {
+		"title": "Angular.js",
+		"level": "60%"
+	}
+]

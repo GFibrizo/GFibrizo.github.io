@@ -1,0 +1,27 @@
+[
+	{
+		"title": "Tinder",
+		"tagline": "Aplicación clon de tinder",
+		"repo": "https://github.com/juandausa/tinder"
+	}, {
+		"title": "Arquitectura Clean",
+		"tagline": "Análisis del estilo arquitectonico Clean. Desarrollo de ejemplos en iOs y Android.",
+		"repo": "https://github.com/ezeperez26/clean-architecture"
+	}, {
+		"title": "Clasificador de textos",
+		"tagline": "Algoritmo de aprendizaje automático que, a partir de un cuerpo de documentos, aprende a clasificar documentos usando clustering.",
+		"repo": ""
+	}, {
+		"title": "CV en Github",
+		"tagline": "Este cv utiliza Angular.js, Booststrap y Github pages.",
+		"repo": "https://github.com/GFibrizo/GFibrizo.github.io"
+	}, {
+		"title": "Pacman",
+		"tagline": "Desarrollado en Java, proyecto que utiliza intensivamente patrones de diseño.",
+		"repo": "https://github.com/GFibrizo/TP-Pacman"
+	}, {
+		"title": "Red de Mascotas",
+		"tagline": "Primer aplicación completa desarrollada en Android. Red social de mascotas pedidas.",
+		"repo": "https://github.com/GFibrizo/Red-de-Mascotas"
+	}
+]
