@@ -1,7 +1,7 @@
 <div class="education-container container-block">
     <h2 class="container-block-title">Educación</h2>
     <div class="item"  ng-repeat="study in $ctrl.studies">
-        <h4 class="degree">{{study.degree}}</h4>
+        <h4 class="degree"><a href="{{study.link}}"> {{study.degree}}</a></h4>
         <h5 class="meta">{{study.institution}}</h5>
         <div class="time">{{study.time}}</div>
     </div><!--//item-->

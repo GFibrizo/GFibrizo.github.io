@@ -2,10 +2,12 @@
 	{
 		"degree": "Ingeniería en Informática",
 		"institution": "Universidad de Buenos Aires",
-		"time": "2010 - 2017"
+		"time": "2010 - 2017",
+		"link": ""
 	}, 	{
 		"degree": "Curso de Big Data",
 		"institution": "MuleSoft Academy",
-		"time": "Julio 2016"
+		"time": "Julio 2016",
+		"link": "https://github.com/GFibrizo/GFibrizo.github.io/tree/master/assets/images/CertificadoBigData"
 	}
 ]
