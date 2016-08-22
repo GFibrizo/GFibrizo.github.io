@@ -1,7 +1,7 @@
 [
 	{
 		"title": "Tinder",
-		"tagline": "Aplicación clon de tinder",
+		"tagline": "Aplicación Android clon de tinder. AppServer C++, SharedServer Node.js.",
 		"repo": "https://github.com/juandausa/tinder"
 	}, {
 		"title": "Arquitectura Clean",
