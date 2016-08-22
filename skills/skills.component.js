@@ -7,7 +7,7 @@ angular.
     templateUrl: 'skills/skills.template.html',
     controller: function SkillsController($http) {
       var self = this;
-      
+
       $http.get('data/skills.json').then(function(response) {
         self.skills = response.data;
       });
