@@ -1,6 +1,6 @@
 <div ng-repeat="skill in $ctrl.skills" class="item">
     <h3 class="level-title">{{skill.title}}</h3>
     <div class="level-bar">
-        <div class="level-bar-inner" data-level={{skill.level}}></div>
+        <div class="level-bar-inner" style="width:{{skill.level}};" data-level={{skill.level}}></div>
     </div><!--//level-bar-->                                 
 </div><!--//item-->
