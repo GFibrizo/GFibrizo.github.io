@@ -1,5 +1,11 @@
 [
     {
+      "company": "redbee",
+      "title": "Full Stack Developer",
+      "details": [""],
+      "time": "Septiembre - Presente (2016)",
+      "technologies":["Scala", "Play", "Grails", "Java", "Docker"]
+    }, {
       "company": "Iquall Networks",
       "title": "Sofware Developer",
       "details": [
@@ -9,11 +15,5 @@
       	"Colaboración en una aplicación Android."],
       "time": "Marzo - Octubre (2015)",
       "technologies":["Android", "Sails.js", "Soap", "Python", "PHP"]
-    }, {
-      "company": "redbee",
-      "title": "Full Stack Developer",
-      "details": [""],
-      "time": "Septiembre - Presente (2016)",
-      "technologies":["Scala", "Play", "Grails", "Java", "Docker"]
     }
 ]

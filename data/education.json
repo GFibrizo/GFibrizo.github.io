@@ -4,15 +4,15 @@
 		"institution": "Universidad de Buenos Aires",
 		"time": "2010 - 2017",
 		"link": ""
-	}, 	{
-		"degree": "Curso de Big Data",
-		"institution": "MuleSoft Academy",
-		"time": "Julio 2016",
-		"link": "https://github.com/GFibrizo/GFibrizo.github.io/blob/master/assets/images/CertificadoBigData.pdf"
-	}, 	{
+	}, {
 		"degree": "Curso de Machine Learning",
 		"institution": "MuleSoft Academy",
 		"time": "Agosto 2016",
 		"link": "https://github.com/GFibrizo/GFibrizo.github.io/blob/master/assets/images/CertificadoMachineLearning.pdf"
+	}, {
+		"degree": "Curso de Big Data",
+		"institution": "MuleSoft Academy",
+		"time": "Julio 2016",
+		"link": "https://github.com/GFibrizo/GFibrizo.github.io/blob/master/assets/images/CertificadoBigData.pdf"
 	}
 ]
