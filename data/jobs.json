@@ -1,10 +1,25 @@
 [
     {
       "company": "redbee",
+      "title": "Data Engineer",
+      "details": [
+        "Participación en proyecto de big data utilizando Scala + ApacheSpark",
+        "Confección de reportes con insights utilizando Apache Spark para procesar grandes volumenes de datos y visualizaciones utilizando ThoughtSpot para dar información de valor a empresa de producto con framework de sistema de recomendaciones.",
+        "Confección de healthcheck API para reporte de sitios con problemas, utilizando desvíos estándar para calcular la severidad.",
+        "Git Flow como esquema de branching, subida de cambios y revisión de código."
+        "Uso de bases de datos Postgres, Cassandra, Thoughtspot (TQL) y sistema de archivos HDFS"],
+      "time": "Febrero 2017 - Presente 2017",
+      "technologies":["Scala", "Apache Spark", "Play", "Cassandra", "Thoughtspot", "Postgres"]
+    }, {
+      "company": "redbee",
       "title": "Full Stack Developer",
-      "details": [""],
-      "time": "Septiembre - Presente (2016)",
-      "technologies":["Scala", "Play", "Grails", "Java", "Docker"]
+      "details": [
+        "Participación en dos proyectos: Resumenes electronicos Prisma (aplicaciones Scala con Akka, Grails) y APIs de Billetera StandAlone de TodoPago (aplicaciones Spring en Java).",
+        "Resumenes electronicos: Desarrollo de nuevas funcionalidades y correción de bugs en aplicaciones Scala con Akka y aplicaciones Grails con varias salidas a producción. Implementación esquema productor-consumidor utilizando Kafka para la persistencia de métricas garantizando alta disponibilidad."        
+        "Backend de Billetera StandAlone: ingreso en proyecto en etapa previa a despliegue, corrección de bugs de performance importantes, despliegue en ambientes de QA, participación en sprint de estabilización.",
+        "Uso de bases de datos MySQL, InfluxDB, Redis y Couchbase"],
+      "time": "Septiembre 2016 - Febrero 2017",
+      "technologies":["Scala", "Akka", "Play", "Grails", "Java", "Docker", "Kafka", "Redis"]
     }, {
       "company": "Iquall Networks",
       "title": "Sofware Developer",
@@ -13,7 +28,7 @@
       	"Construcción de scripts con Bash, PHP y Python y uso del framework Diamond de Python para la creación de servicios que ejecutan tareas periódicas en background.",
       	"Manejo de bases de datos MySQL y postgreSQL.",
       	"Colaboración en una aplicación Android."],
-      "time": "Marzo - Octubre (2015)",
+      "time": "Marzo 2015 - Octubre 2015",
       "technologies":["Android", "Sails.js", "Soap", "Python", "PHP"]
     }
 ]
